@@ -2,11 +2,11 @@
 Lista de bases de datos de revistas científicas de acceso libre.
 
 En Español
-## 1. REDALYC
+1. ## REDALYC
 Red de Revistas Científicas de América Latina, El Caribe, España yPortugal 
 http://www.redalyc.com/
 
-## 1. SCIELO = Scientific Electronic Library Online
+1. ## SCIELO = Scientific Electronic Library Online
 Base de datos de acceso libre a revistas con texto completoque cubren disciplinas tales como: Arquitectura, Ciencias Agrícolas,Ciencias Biológicas, Ciencias de la Salud, Ciencias de la Tierra, CienciasJurídicas, Ciencias Sociales, Humanidades, Ingeniería, Matemática,Oceanógrafa y Química. 
 http://www.scielo.org/index.php?lang=en
  
