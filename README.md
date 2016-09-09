@@ -1,74 +1,68 @@
-# journals
+# Journals
 Lista de bases de datos de revistas científicas de acceso libre.
 
 En Español
-1.REDALYC
+##1.REDALYC
 Red de Revistas Científicas de América Latina, El Caribe, España yPortugal 
 http://www.redalyc.com/
 
-2.SCIELO = Scientific Electronic Library Online
+##2.SCIELO = Scientific Electronic Library Online
 Base de datos de acceso libre a revistas con texto completoque cubren disciplinas tales como: Arquitectura, Ciencias Agrícolas,Ciencias Biológicas, Ciencias de la Salud, Ciencias de la Tierra, CienciasJurídicas, Ciencias Sociales, Humanidades, Ingeniería, Matemática,Oceanógrafa y Química. 
 http://www.scielo.org/index.php?lang=en
  
-3.DOAJ - Directory of Open Access Journals
+##3.DOAJ - Directory of Open Access Journals
 Cubre servicio gratis y completo de revistas científicas. El objetivo es cubrir todos los temas e idiomas. En la actualidad hay 2934 revistas en el directorio.
 http://www.doaj.org/doaj?func=home
  
-4.OARE: Acceso en línea de recursos ambientales
+##4.OARE: Acceso en línea de recursos ambientales
 http://www.oaresciences.org/en/
  
-5.HighWire Press
+##5.HighWire Press
 Acceso libre al texto completo de 1.149.216 artículospublicados en 915 revistas especializadas en ciencias de la vida. Proveeservicios adicionales a los de consulta como la alerta bibliográfica según sustemas de interés y las citas.
 http://highwire.stanford.edu/
  
-6.AGBIOS:
+##6.AGBIOS:
 Biotecnología.http://www.agbios.com/main.php
  
  
-7.AGRI 2000
+##7.AGRI 2000
 Megabase de datos Agropecuaria de América
 http://orton.catie.ac.cr/agri2000.htm
  
-8.AGRÍCOLA (Español)
+##8.AGRÍCOLA (Español)
 /National Agricultural Library (Inglés):
 http://www.firstgov.gov/Espanol/Agencias/Biblioteca_Agricultura.shtml
  
  
-9.AGRIS
+##9.AGRIS
 Literatura mundial de 240 centros nacionales, internacionales eintergubernamentales facilitan su información para las ciencias agrícolas y latecnología.http://www.fao.org/agris/Default_Es.htm
  
-10.AGROVIA
+##10.AGROVIA
 Banco de datos de integración del sector agroalimentario coninformación actualizada sobre servicios y negocios del sector agroalimentario enInternet ofrece una información continua y diaria, puntual e inmediata, ademásde servicios especializados al sector agroalimentario español.
 http://www.agrovia.com/
- 
- 
-11.ARXIV
+
+##11.ARXIV
 Repositorio Open access con 449,709 e-prints en matemáticas, física,ciencias de la computación y biología cuántica. Es una de las principales (si nola principal) referencias documentales en la investigación física.
 http://arxiv.org/
- 
 
-12.BIBLIOTECA DIGITAL ANDINA
+##12.BIBLIOTECA DIGITAL ANDINA
 Obras de interés cultural, histórico ycientífico de los Países Miembros de la Comunidad Andina
 http://comunidadandina.org/bda/home_biblio.htm
- 
- 
-13.BIBLIOTECA VIRTUAL DE CERVANTES
+
+##13.BIBLIOTECA VIRTUAL DE CERVANTES
 Exilio, Venezuela, LiteraturaGauchesca, Infantil y Juvenil, Historia y crítica del Cine español, etc.
 http://www.cervantesvirtual.com/
- 
- 
-14.BIBLIOTECA VIRTUAL EN SALUD
+
+##14.BIBLIOTECA VIRTUAL EN SALUD
 (BVS): Ciencias de la Salud (Anatomía,
 Antropología, Educación, Sociología y fenómenos sociales, Asistencia en salud,Ciencia e información, Ciencia y salud, Ciencias biológicas, Ciencias físicas,Compuestos químicos y drogas, homeopatía, humanidades , organismos,psicología y psiquiatria , Salud Publica, Técnicas y equipamientos, tecnología delos alimentos, vigilancia sanitaria.
 http://www.bvs.br/php/index.php
- 
- 
-15.CGVLIBRARY
+
+##15.CGVLIBRARY
 Información agrícola, incluyendo las bases de datosbibliográficas de las bibliotecas de los centros de investigación del GrupoConsultivo para la Investigación Agrícola Internacional (CGIAR) con textocompleto de miles de publicaciones acerca de la investigación que hace elCGIAR.
 http://vlibrary.cgiar.org/
- 
- 
-16.CHEMWEB.COM:
+
+##16.CHEMWEB.COM:
 Especial en química
 http://www.chemweb.com/
  
