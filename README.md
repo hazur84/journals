@@ -6,46 +6,46 @@ En Español
 Red de Revistas Científicas de América Latina, El Caribe, España yPortugal 
 http://www.redalyc.com/
 
-##2.SCIELO = Scientific Electronic Library Online
+1.SCIELO = Scientific Electronic Library Online
 Base de datos de acceso libre a revistas con texto completoque cubren disciplinas tales como: Arquitectura, Ciencias Agrícolas,Ciencias Biológicas, Ciencias de la Salud, Ciencias de la Tierra, CienciasJurídicas, Ciencias Sociales, Humanidades, Ingeniería, Matemática,Oceanógrafa y Química. 
 http://www.scielo.org/index.php?lang=en
  
-##3.DOAJ - Directory of Open Access Journals
+1.DOAJ - Directory of Open Access Journals
 Cubre servicio gratis y completo de revistas científicas. El objetivo es cubrir todos los temas e idiomas. En la actualidad hay 2934 revistas en el directorio.
 http://www.doaj.org/doaj?func=home
  
-##4.OARE: Acceso en línea de recursos ambientales
+1.OARE: Acceso en línea de recursos ambientales
 http://www.oaresciences.org/en/
  
-##5.HighWire Press
+1.HighWire Press
 Acceso libre al texto completo de 1.149.216 artículospublicados en 915 revistas especializadas en ciencias de la vida. Proveeservicios adicionales a los de consulta como la alerta bibliográfica según sustemas de interés y las citas.
 http://highwire.stanford.edu/
  
-##6.AGBIOS:
+1.AGBIOS:
 Biotecnología.http://www.agbios.com/main.php
  
  
-##7.AGRI 2000
+1.AGRI 2000
 Megabase de datos Agropecuaria de América
 http://orton.catie.ac.cr/agri2000.htm
  
-##8.AGRÍCOLA (Español)
+1.AGRÍCOLA (Español)
 /National Agricultural Library (Inglés):
 http://www.firstgov.gov/Espanol/Agencias/Biblioteca_Agricultura.shtml
  
  
-##9.AGRIS
+1.AGRIS
 Literatura mundial de 240 centros nacionales, internacionales eintergubernamentales facilitan su información para las ciencias agrícolas y latecnología.http://www.fao.org/agris/Default_Es.htm
  
-##10.AGROVIA
+1.AGROVIA
 Banco de datos de integración del sector agroalimentario coninformación actualizada sobre servicios y negocios del sector agroalimentario enInternet ofrece una información continua y diaria, puntual e inmediata, ademásde servicios especializados al sector agroalimentario español.
 http://www.agrovia.com/
 
-##11.ARXIV
+1.ARXIV
 Repositorio Open access con 449,709 e-prints en matemáticas, física,ciencias de la computación y biología cuántica. Es una de las principales (si nola principal) referencias documentales en la investigación física.
 http://arxiv.org/
 
-##12.BIBLIOTECA DIGITAL ANDINA
+1.BIBLIOTECA DIGITAL ANDINA
 Obras de interés cultural, histórico ycientífico de los Países Miembros de la Comunidad Andina
 http://comunidadandina.org/bda/home_biblio.htm
 
