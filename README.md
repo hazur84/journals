@@ -2,7 +2,7 @@
 Lista de bases de datos de revistas científicas de acceso libre.
 
 En Español
-##1.REDALYC
+##.1.REDALYC
 Red de Revistas Científicas de América Latina, El Caribe, España yPortugal 
 http://www.redalyc.com/
 
