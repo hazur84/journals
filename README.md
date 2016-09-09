@@ -2,46 +2,44 @@
 Lista de bases de datos de revistas científicas de acceso libre.
 
 En Español
-1. ## REDALYC
+## REDALYC
 Red de Revistas Científicas de América Latina, El Caribe, España yPortugal 
 http://www.redalyc.com/
 
-1. ## SCIELO = Scientific Electronic Library Online
+## SCIELO = Scientific Electronic Library Online
 Base de datos de acceso libre a revistas con texto completoque cubren disciplinas tales como: Arquitectura, Ciencias Agrícolas,Ciencias Biológicas, Ciencias de la Salud, Ciencias de la Tierra, CienciasJurídicas, Ciencias Sociales, Humanidades, Ingeniería, Matemática,Oceanógrafa y Química. 
 http://www.scielo.org/index.php?lang=en
  
-## 1. DOAJ - Directory of Open Access Journals
+## DOAJ - Directory of Open Access Journals
 Cubre servicio gratis y completo de revistas científicas. El objetivo es cubrir todos los temas e idiomas. En la actualidad hay 2934 revistas en el directorio.
 http://www.doaj.org/doaj?func=home
  
-## 1. OARE: Acceso en línea de recursos ambientales
+## OARE: Acceso en línea de recursos ambientales
 http://www.oaresciences.org/en/
  
-## 1. HighWire Press
+## HighWire Press
 Acceso libre al texto completo de 1.149.216 artículospublicados en 915 revistas especializadas en ciencias de la vida. Proveeservicios adicionales a los de consulta como la alerta bibliográfica según sustemas de interés y las citas.
 http://highwire.stanford.edu/
  
-## 1. AGBIOS:
+## AGBIOS:
 Biotecnología.http://www.agbios.com/main.php
- 
- 
-1.AGRI 2000
+
+## AGRI 2000
 Megabase de datos Agropecuaria de América
 http://orton.catie.ac.cr/agri2000.htm
  
-1.AGRÍCOLA (Español)
+## AGRÍCOLA (Español)
 /National Agricultural Library (Inglés):
 http://www.firstgov.gov/Espanol/Agencias/Biblioteca_Agricultura.shtml
  
- 
-1.AGRIS
+## AGRIS
 Literatura mundial de 240 centros nacionales, internacionales eintergubernamentales facilitan su información para las ciencias agrícolas y latecnología.http://www.fao.org/agris/Default_Es.htm
  
-1.AGROVIA
+## AGROVIA
 Banco de datos de integración del sector agroalimentario coninformación actualizada sobre servicios y negocios del sector agroalimentario enInternet ofrece una información continua y diaria, puntual e inmediata, ademásde servicios especializados al sector agroalimentario español.
 http://www.agrovia.com/
 
-1.ARXIV
+## ARXIV
 Repositorio Open access con 449,709 e-prints en matemáticas, física,ciencias de la computación y biología cuántica. Es una de las principales (si nola principal) referencias documentales en la investigación física.
 http://arxiv.org/
 
