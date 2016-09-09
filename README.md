@@ -6,22 +6,22 @@ En Español
 Red de Revistas Científicas de América Latina, El Caribe, España yPortugal 
 http://www.redalyc.com/
 
-1. SCIELO = Scientific Electronic Library Online
+## 1. SCIELO = Scientific Electronic Library Online
 Base de datos de acceso libre a revistas con texto completoque cubren disciplinas tales como: Arquitectura, Ciencias Agrícolas,Ciencias Biológicas, Ciencias de la Salud, Ciencias de la Tierra, CienciasJurídicas, Ciencias Sociales, Humanidades, Ingeniería, Matemática,Oceanógrafa y Química. 
 http://www.scielo.org/index.php?lang=en
  
-1. DOAJ - Directory of Open Access Journals
+## 1. DOAJ - Directory of Open Access Journals
 Cubre servicio gratis y completo de revistas científicas. El objetivo es cubrir todos los temas e idiomas. En la actualidad hay 2934 revistas en el directorio.
 http://www.doaj.org/doaj?func=home
  
-1. OARE: Acceso en línea de recursos ambientales
+## 1. OARE: Acceso en línea de recursos ambientales
 http://www.oaresciences.org/en/
  
-1. HighWire Press
+## 1. HighWire Press
 Acceso libre al texto completo de 1.149.216 artículospublicados en 915 revistas especializadas en ciencias de la vida. Proveeservicios adicionales a los de consulta como la alerta bibliográfica según sustemas de interés y las citas.
 http://highwire.stanford.edu/
  
-1.AGBIOS:
+## 1. AGBIOS:
 Biotecnología.http://www.agbios.com/main.php
  
  
