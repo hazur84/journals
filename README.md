@@ -43,85 +43,65 @@ http://www.agrovia.com/
 Repositorio Open access con 449,709 e-prints en matemáticas, física,ciencias de la computación y biología cuántica. Es una de las principales (si nola principal) referencias documentales en la investigación física.
 http://arxiv.org/
 
-1.BIBLIOTECA DIGITAL ANDINA
+## BIBLIOTECA DIGITAL ANDINA
 Obras de interés cultural, histórico ycientífico de los Países Miembros de la Comunidad Andina
 http://comunidadandina.org/bda/home_biblio.htm
 
-##13.BIBLIOTECA VIRTUAL DE CERVANTES
+## BIBLIOTECA VIRTUAL DE CERVANTES
 Exilio, Venezuela, LiteraturaGauchesca, Infantil y Juvenil, Historia y crítica del Cine español, etc.
 http://www.cervantesvirtual.com/
 
-##14.BIBLIOTECA VIRTUAL EN SALUD
+## BIBLIOTECA VIRTUAL EN SALUD
 (BVS): Ciencias de la Salud (Anatomía,
 Antropología, Educación, Sociología y fenómenos sociales, Asistencia en salud,Ciencia e información, Ciencia y salud, Ciencias biológicas, Ciencias físicas,Compuestos químicos y drogas, homeopatía, humanidades , organismos,psicología y psiquiatria , Salud Publica, Técnicas y equipamientos, tecnología delos alimentos, vigilancia sanitaria.
 http://www.bvs.br/php/index.php
 
-##15.CGVLIBRARY
+## CGVLIBRARY
 Información agrícola, incluyendo las bases de datosbibliográficas de las bibliotecas de los centros de investigación del GrupoConsultivo para la Investigación Agrícola Internacional (CGIAR) con textocompleto de miles de publicaciones acerca de la investigación que hace elCGIAR.
 http://vlibrary.cgiar.org/
 
-##16.CHEMWEB.COM:
+## CHEMWEB.COM:
 Especial en química
 http://www.chemweb.com/
- 
- 
-17.CITEBASE:
+
+## CITEBASE:
 Permite navegar a través de archivos de eprints usando citashipertextuales y posibilitando su análisis, presentando además los resultadosordenados por diferentes criterios. Informa también del factor de impacto delos artículos indexados.http://www.citebase.org/
- 
- 
-18.FAOSTAT:
+
+## FAOSTAT:
 Proporciona acceso a más de 3 millones,entre cruces intersectoriales y temporales, de datos relacionadoscon alimentación y agricultura. Contiene datos de 200 países y másde 200 productos primarios e insumos, producción, consumo, comercio,precios y recursos agrícolas.
 http://faosfat.fao.org/
- 
- 
-19.ING: Index Nomium Genericorum
+
+## ING: Index Nomium Genericorum
 Índice mundial de nombres genéricosde especies vegetales recogidos a lo largo de la historia por el CódigoInternacional de Nomenclatura Botánica.
 http://ravenel.si.edu/botany/ing/ingForm.cfm
- 
- 
-THE INTERNATIONAL PLANT NAMES INDEX (IPNI)
-:Catálogo
- 
-Internacional de Nomenclatura Botánica (Nombres de Flora).
- 
+
+## THE INTERNATIONAL PLANT NAMES INDEX (IPNI)
+Catálogo Internacional de Nomenclatura Botánica (Nombres de Flora).
 http://www.ipni.org/index.html
  
  
 http://www.nal.usda.gov/fnic/foodcomp/search/
  
  
-NUTRIENT DATABASE:
-Proporciona información de los nutrientes de más de6,000 comidas diferentes.http://www.plos.org/
- 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+## NUTRIENT DATABASE
+Proporciona información de los nutrientes de más de6,000 comidas diferentes.
+http://www.plos.org/
  
 Medicina y ciencias de la vida
-:PLOS (Public Library of Science):Biblioteca
- 
-pública virtual de revistas científicas, que se publican para ser distribuidas enlínea de manera libre e gratuita.http://scirus.com/srsapp/
+
+## PLOS (Public Library of Science):
+Biblioteca pública virtual de revistas científicas, que se publican para ser distribuidas enlínea de manera libre e gratuita.
+http://scirus.com/srsapp/
  
  
 AGORA
-.
 Acceso en Línea en Investigación Agrícola.
 Para acceder a ésterecurso debe acercase al Centro de Documentación y Servicio Bibliográfico deUNISARC. Esta base de datos consta de 1.122 publicaciones científicas enCiencias Agrícolas, Piscicultura, Veterinaria, Agronomía, Zootecnia,
  
 Computación, Agroindustria.
 Elsevier  
-Comoeditor líder en el mundo de la ciencia y la información de salud, ofreceservicio a más de 30 millones de científicos, estudiantes y profesionales de la salud y lainformación en todo el mundohttp://www.elsevier.com/wps/find/intro.cws_home/ataglance 
+Como editor líder en el mundo de la ciencia y la información de salud, ofreceservicio a más de 30 millones de científicos, estudiantes y profesionales de la salud y lainformación en todo el mundo 
+http://www.elsevier.com/wps/find/intro.cws_home/ataglance 
  
 THE HORSE.COM
 http://www.thehorse.com
@@ -129,9 +109,7 @@ http://www.thehorse.com
  
 BULB
  
-Obtenga diccionarios,libros, ensayos y diversos recursos. Acceso a bases de
- 
-datos con información sobre diversas áreas del conocimiento.
+Obtenga diccionarios,libros, ensayos y diversos recursos. Acceso a bases de datos con información sobre diversas áreas del conocimiento.
  
 CINDOC
  
@@ -154,28 +132,14 @@ Google Book Search
  
 Buscador de librosen línea donde puede encontrar obras completas y otrasfragmentadas.
  
-HighWire
- 
+## HighWire
 Una de las bases de datos científicas más extensa con más de 15 millonesde artículos de 860 revistas en texto completo y gratuito en la web.
  
 Internet invisible
+Acceso a obras de referencia como: diccionarios, directorios, enciclopedias ytesauros. Así mismo, podrá consultar bases de datos sobre tesis doctorales,normas y patentes.
  
- Acceso a obras de referencia como: diccionarios, directorios, enciclopedias ytesauros. Así mismo, podrá consultar bases de datos sobre tesis doctorales,normas y patentes.
- 
-National Ag Safety Database - NASD
- 
+##National Ag Safety Database - NASD
 Base de datos dirigida a la comunidad agrícola sobre salud y seguridadocupacional.
  
-Pub Med
- 
- Apoyada por Medline, una gran base de datos especializada enMedicina y Ciencias de la Salud. Recupera unos 15 millones de artículos desde
- 
-
-
-
-
-
-
-
-
-
+## Pub Med
+Apoyada por Medline, una gran base de datos especializada enMedicina y Ciencias de la Salud. Recupera unos 15 millones de artículos desde
